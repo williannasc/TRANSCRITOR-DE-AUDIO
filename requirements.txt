@@ -1,4 +1,7 @@
+Flask
 openai-whisper
 fpdf2
 setuptools
+mutagen
+yt-dlp
 git+https://github.com/openai/whisper.git
